@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/fa/9/98/Tafresh_University_logo.png" alt="Tafresh University Logo" width="120"/>
+  <img src="https://isic.ir/wp-content/uploads/2020/03/Tafresh-University.jpg" alt="Tafresh University Logo" width="120"/>
 </p>
 
 <h1 align="center">📚 پروژه پردازش تصویر با MATLAB</h1>
